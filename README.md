@@ -128,11 +128,6 @@ Move-Item -Path .\trans_rl_model.pdf -Destination .\papers\
 
 All work in this repository — including the notebook experiments, data processing, model design, training runs, analysis, and the included paper — was performed and authored solely by `vkas dev pandey`. This project documentation intentionally reflects the author's own work and was written to represent the author's methods and results.
 
- 
-
-**License**
-
-  MIT, Apache-2.0. Tell me which license you prefer and I'll add a `LICENSE` file.
 
 ---
 
