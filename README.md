@@ -132,7 +132,7 @@ All work in this repository — including the notebook experiments, data process
 
 **License**
 
-Add a license file if you want to make the project public. Common choices: MIT, Apache-2.0. Tell me which license you prefer and I'll add a `LICENSE` file.
+  MIT, Apache-2.0. Tell me which license you prefer and I'll add a `LICENSE` file.
 
 ---
 
