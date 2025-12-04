@@ -124,11 +124,7 @@ Move-Item -Path .\trans_rl_model.pdf -Destination .\papers\
 - Use walk-forward validation instead of a single train/test split for more robust evaluation.
 - Add hyperparameter tuning (grid/random search, Optuna).
 
-**Authorship & Contact**
-
-All work in this repository — including the notebook experiments, data processing, model design, training runs, analysis, and the included paper — was performed and authored solely by `vkas dev pandey`. This project documentation intentionally reflects the author's own work and was written to represent the author's methods and results.
-
-
+ 
 ---
 
  
