@@ -13,7 +13,7 @@ Comprehensive project documentation for the notebook `stockPricePrediction.ipynb
 - Research paper
 - Reproducing results
 - Suggestions and next steps
-- Author & license
+
 
 **Project overview**
 
@@ -93,7 +93,7 @@ These choices are a simple baseline; tuning units, layers, dropout, optimizer, o
 
 **Research paper**
 
-The PDF `trans_rl_model.pdf` is present in the project root. It contains your related research and background. To keep the repository tidy, move the file to a `papers/` folder:
+The PDF `trans_rl_model.pdf` is present in the project root. It contains the related research and background.
 
 ```powershell
 New-Item -ItemType Directory -Path .\papers -ErrorAction SilentlyContinue
